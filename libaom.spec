@@ -9,7 +9,7 @@
 #
 Name     : libaom
 Version  : 3.9.1
-Release  : 3
+Release  : 4
 URL      : https://storage.googleapis.com/aom-releases/libaom-3.9.1.tar.gz
 Source0  : https://storage.googleapis.com/aom-releases/libaom-3.9.1.tar.gz
 Source1  : https://storage.googleapis.com/aom-releases/libaom-3.9.1.tar.gz.asc
